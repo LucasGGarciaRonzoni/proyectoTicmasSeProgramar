@@ -1,0 +1,114 @@
+
+*{
+    background-color: #b2ebc4;
+    font-family:  'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+#bodySinTitulo{
+    font-size: 20px;
+}
+
+#imgYnombre{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+#fotoDePerfil{
+    max-width: 33%;
+
+    display: flex;
+}
+
+#titulo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1{
+    font-size: 4rem;
+    align-items: flex-end;
+    margin:0%
+}
+
+#infoPersoCompleta{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#skillsTituloyLista{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px 40px 0px 0px;;
+}
+
+#experienciaLaboralCompleta{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#skills{
+    margin: 15px 5px 0px 0px;
+}
+
+.fa-envelope{
+    color: #b5050b;
+}
+
+.fa-calendar-days{
+    color: rgb(194, 122, 39);
+}
+
+.fa-house-user{
+    color: #29257a;
+}
+
+.fa-phone-volume{
+    color: #5f07a3;
+}
+
+.fa-html5 {
+    font-size:xx-large;
+    color: #DD4B25;
+}
+
+.fa-js{
+    font-size:xx-large;
+    color: #CFB433;
+}
+
+.fa-node{
+    font-size:xx-large;
+    color: #639A58;
+}
+
+.fa-css3-alt {
+    font-size:xx-large;
+    color: #254BDD;
+}
+
+.fa-react{
+    font-size:xx-large;
+    color: #5ED3F3;
+}
+
+.fa-database{
+    font-size:xx-large;
+    color: #DD8A00;
+}
+
+#botonExperiencia{
+    font-size: xx-large;
+    background-color: rgb(88, 85, 85);
+    border: solid #4ece6b;
+}
+
+#experienciaLab{
+    display: none;
+}
